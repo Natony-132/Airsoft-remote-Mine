@@ -1,3 +1,7 @@
 # Airsoft-remote-Explosive
-Simulated remote explosive for airsoft using 915MHz LoRa radios and other hardware.
-![Hand unit V3](/images/Hand%20unit%20V1.PNG)
+The Airsoft remote explosive project is to create a device that can act as a simulated explosive to “tag” other airsoft players, without the operator needing to be in the direct area. 
+
+
+
+
+![Hand unit V3](/images/ARE%2)
