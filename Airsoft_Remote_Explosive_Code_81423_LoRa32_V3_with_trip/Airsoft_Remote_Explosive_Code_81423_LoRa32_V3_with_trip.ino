@@ -1,3 +1,6 @@
+//Copyrite Nathan Julicher 2024
+
+
 #include <esp_system.h>
 #include <RadioLib.h>
 #include <Deneyap_Servo.h>     

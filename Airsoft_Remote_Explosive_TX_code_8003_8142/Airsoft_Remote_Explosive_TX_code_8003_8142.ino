@@ -1,3 +1,5 @@
+//Copyrite Nathan Julicher 2024
+
 #include <RadioLib.h>
 
 #define NSS 8
@@ -23,7 +25,7 @@ int x = 0;
 void setup() {
 
 pinMode(flipFlop, INPUT); 
-pinMode(Trigger, INPUT);           //-----------------------------------------putton input
+pinMode(Trigger, INPUT);           //-----------------------------------------button input
 pinMode(ledpin, OUTPUT);
 
   Serial.begin(115200);
