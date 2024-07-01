@@ -21,6 +21,7 @@ _____________________________________
 Version 3 was an early design before V2.5 that was meant to make re-arming the mine simpler. 
 _____________________________________
 ![Airsoft Remote Explosive V4](/images/Airsoft%20Remote%20Mine%20V4.PNG)
+
 Version4 has all the features of V5 but is more difficult to make. 
 _____________________________________
 ![Airsoft Remote Explosive V5](/images/Airsoft%20Remote%20Mine%20V5.PNG)
