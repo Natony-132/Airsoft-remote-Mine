@@ -15,12 +15,10 @@ Version 2 consists of a second device operating on a separate trigger code and a
 Version 2.5: During field play on multiple occasions, opposing players picked up or moved the device. To discourage this, a tamper switch was added to the V2 device. This has proved to be effective in discouraging deliberate tampering and has added additional functionality to the system (direct supervision no longer required). 
 
 ![Airsoft Remote Explosive V3](/images/Airsoft%20Remote%20Explosive%20V3.PNG)
-![Airsoft Remote Explosive V4](/images/Airsoft%20Remote%20Explosive%20V4.PNG)
-
 Version 3 was an early design before V2.5 that was meant to make re-arming the mine simpler. 
 
+![Airsoft Remote Explosive V4](/images/Airsoft%20Remote%20Explosive%20V4.PNG)
 Version4 has all the features of V5 but is more difficult to make. 
-
 
 ![Airsoft Remote Explosive V5](/images/Airsoft%20Remote%20Explosive%20V5.PNG)
 Version 5 was designed to have the tamper switch integrated into the frame, simplify the construction method, and include a buzzer to make recovery easier. This new version required a new handheld transmitter. The V2 transmitter has 6 fire action groups (up from 2) and a “chirp” mode to activate the buzzer. 
