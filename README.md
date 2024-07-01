@@ -5,7 +5,7 @@ This project started as a time delay airsoft grenade. Due to the weight of the p
 
 After a few tests, a ramset nail gun cartridge was selected to make the loud sound needed to make it a mine. This requires a firing pin and a servo to trigger. 
 
-![Airsoft remote Explosive V1,V2, and V5](/images/ARE%202.jpg)
+![Airsoft remote Mine V1,V2, and V5](/images/ARE%202.jpg)
 (V1 in green, V2.5 in grey, V5 is green and grey)
 
 Version 1 consists of a single device with a remote detonator. It was made as a proof of concept and in game testing. 
@@ -16,15 +16,15 @@ Version 2.5: During field play on multiple occasions, opposing players picked up
 
 ![state diagram V2.5 mine](/images/State%20diagram%20v2%205.PNG)
 _____________________________________
-![Airsoft Remote Explosive V3](/images/Airsoft%20Remote%20Mine%20V3.PNG)
+![Airsoft Remote Mine V3](/images/Airsoft%20Remote%20Mine%20V3.PNG)
 
 Version 3 was an early design before V2.5 that was meant to make re-arming the mine simpler. 
 _____________________________________
-![Airsoft Remote Explosive V4](/images/Airsoft%20Remote%20Mine%20V4.PNG)
+![Airsoft Remote Mine V4](/images/Airsoft%20Remote%20Mine%20V4.PNG)
 
 Version4 has all the features of V5 but is more difficult to make. 
 _____________________________________
-![Airsoft Remote Explosive V5](/images/Airsoft%20Remote%20Mine%20V5.PNG)
+![Airsoft Remote Mine V5](/images/Airsoft%20remote%20Mine%20V5.PNG)
 
 Version 5 was designed to have the tamper switch integrated into the frame, simplify the construction method, and include a buzzer to make recovery easier. This new version required a new handheld transmitter. The V2 transmitter has 6 fire action groups (up from 2) and a “chirp” mode to activate the buzzer. 
 
