@@ -23,4 +23,4 @@ Version4 has all the features of V5 but is more difficult to make.
 ![Airsoft Remote Explosive V5](/images/Airsoft%20Remote%20Explosive%20V5.PNG)
 Version 5 was designed to have the tamper switch integrated into the frame, simplify the construction method, and include a buzzer to make recovery easier. This new version required a new handheld transmitter. The V2 transmitter has 6 fire action groups (up from 2) and a “chirp” mode to activate the buzzer. 
 
-![Hand Transmitter V2](/images/Hand%20unit%20V2.PNG)
+![Hand Transmitter V2](/images/Airsoft%20Remote%20Mine%20Hand%20unit%20V2.PNG)
