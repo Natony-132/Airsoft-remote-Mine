@@ -27,5 +27,5 @@ _____________________________________
 
 Version 5 was designed to have the tamper switch integrated into the frame, simplify the construction method, and include a buzzer to make recovery easier. This new version required a new handheld transmitter. The V2 transmitter has 6 fire action groups (up from 2) and a “chirp” mode to activate the buzzer. 
 
-![V5 state diagram](/images/V5%20state%20diagram.PNG)
+![V5 state diagram](/images/New%20V5%20state%20diagram.PNG)
 ![Hand Transmitter V2](/images/Airsoft%20Remote%20Mine%20Hand%20unit%20V2.PNG)
