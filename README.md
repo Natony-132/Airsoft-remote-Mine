@@ -16,10 +16,10 @@ Version 2.5: During field play on multiple occasions, opposing players picked up
 
 ![Airsoft Remote Explosive V3](/images/Airsoft%20Remote%20Explosive%20V3.PNG)
 Version 3 was an early design before V2.5 that was meant to make re-arming the mine simpler. 
-
+_____________________________________
 ![Airsoft Remote Explosive V4](/images/Airsoft%20Remote%20Explosive%20V4.PNG)
 Version4 has all the features of V5 but is more difficult to make. 
-
+_____________________________________
 ![Airsoft Remote Explosive V5](/images/Airsoft%20Remote%20Explosive%20V5.PNG)
 Version 5 was designed to have the tamper switch integrated into the frame, simplify the construction method, and include a buzzer to make recovery easier. This new version required a new handheld transmitter. The V2 transmitter has 6 fire action groups (up from 2) and a “chirp” mode to activate the buzzer. 
 
