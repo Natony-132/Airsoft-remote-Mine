@@ -30,3 +30,6 @@ Version 5 was designed to have the tamper switch integrated into the frame, simp
 
 ![V5 state diagram](/images/New%20V5%20state%20diagram.PNG)
 ![Hand Transmitter V2](/images/Airsoft%20Remote%20Mine%20Hand%20unit%20V2.PNG)
+
+![V5 bdd](/images/BDD%201.PNG)
+![V5 req](/images/Airsoft%20Remote%20Mine%20req%20doc.PNG)
