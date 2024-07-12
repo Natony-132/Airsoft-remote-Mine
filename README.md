@@ -24,7 +24,7 @@ _____________________________________
 
 Version4 has all the features of V5 but is more difficult to make. 
 _____________________________________
-![Airsoft Remote Mine V5](/images/Airsoft%20remote%20Mine%20V5.PNG)
+![Airsoft Remote Mine V5](/images/Airsoft%20remote%20Mine%20V5%205.PNG)
 
 Version 5 was designed to have the tamper switch integrated into the frame, simplify the construction method, and include a buzzer to make recovery easier. This new version required a new handheld transmitter. The V2 transmitter has 6 fire action groups (up from 2) and a “chirp” mode to activate the buzzer. 
 
